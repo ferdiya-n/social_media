@@ -1,2 +1,2 @@
 # social_media
-open_source_project
+PHP native project build social networking
